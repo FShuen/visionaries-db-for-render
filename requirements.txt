@@ -1,0 +1,15 @@
+gunicorn
+pathlib
+mysqlclient
+mysql-connector-python
+pymysql
+pyserial
+flask
+Flask-MySQLdb
+mysql-connector
+DateTime
+datetime
+PyYAML==6.0
+pyzmq==22.3.0
+python-time
+numpy
